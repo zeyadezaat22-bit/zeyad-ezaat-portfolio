@@ -266,7 +266,7 @@
 
     <div
         class="video-slider"
-        data-videos='["https://res.cloudinary.com/meelnksg/video/upload/v1792032055/1.mp4","https://res.cloudinary.com/meelnksg/video/upload/v1791950924/2.mp4","https://res.cloudinary.com/meelnksg/video/upload/v1791950601/3.mp4","https://res.cloudinary.com/meelnksg/video/upload/v1791950890/4.mp4","https://res.cloudinary.com/meelnksg/video/upload/v1791950621/5.mp4","https://res.cloudinary.com/meelnksg/video/upload/v1791950623/6.mp4"]'
+        data-videos='["https://res.cloudinary.com/meelnksg/video/upload/v1792032055/1.mp4","https://res.cloudinary.com/meelnksg/video/upload/v1791950924/2.mp4","https://res.cloudinary.com/meelnksg/video/upload/v1791950601/3.mp4","https://res.cloudinary.com/meelnksg/video/upload/v1791950890/4.mp4","https://res.cloudinary.com/meelnksg/video/upload/v1791950621/5.mp4","https://res.cloudinary.com/meelnksg/video/upload/v1791950623/6.mp4","https://res.cloudinary.com/meelnksg/video/upload/v1792383340/7.mp4"]'
         aria-label="Reels video portfolio"
     >
         <div class="video-frame">
@@ -293,7 +293,7 @@
                 &#8592;
             </button>
 
-            <span class="slide-counter">1 / 6</span>
+            <span class="slide-counter">1 / 7</span>
 
             <button
                 class="slider-arrow next"
